@@ -1,0 +1,122 @@
+[
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://p1.akcdn.net/full/517022034.kingston-hyperx-predator-rgb-16gb-2x8gb-ddr4-3200mhz-hx432c16pb3ak2-16.jpg",
+      "PurchasePrice": 3161,
+      "SellingPrice": 29973,
+      "Archived": false,
+      "Socket": 1,
+      "MemorySize": 27,
+      "Size": 3,
+      "Latency": 22
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://www.bestmarkt.hu/img/o/494695-fca73.jpg",
+      "PurchasePrice": 3313,
+      "SellingPrice": 26472,
+      "Archived": false,
+      "Socket": 1,
+      "MemorySize": 2,
+      "Size": 3,
+      "Latency": 33
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://p1.akcdn.net/full/517022034.kingston-hyperx-predator-rgb-16gb-2x8gb-ddr4-3200mhz-hx432c16pb3ak2-16.jpg",
+      "PurchasePrice": 2237,
+      "SellingPrice": 29910,
+      "Archived": false,
+      "Socket": 0,
+      "MemorySize": 7,
+      "Size": 5,
+      "Latency": 74
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://s12emagst.akamaized.net/products/14781/14780181/images/res_7f68c93d2ba3f8c83727ede93a643396_full.jpg",
+      "PurchasePrice": 2163,
+      "SellingPrice": 20925,
+      "Archived": false,
+      "Socket": 1,
+      "MemorySize": 30,
+      "Size": 3,
+      "Latency": 38
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://www.bestmarkt.hu/img/o/500079-8cf44.png",
+      "PurchasePrice": 2287,
+      "SellingPrice": 24450,
+      "Archived": false,
+      "Socket": 1,
+      "MemorySize": 20,
+      "Size": 5,
+      "Latency": 46
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://p1.akcdn.net/full/517022034.kingston-hyperx-predator-rgb-16gb-2x8gb-ddr4-3200mhz-hx432c16pb3ak2-16.jpg",
+      "PurchasePrice": 3346,
+      "SellingPrice": 25119,
+      "Archived": false,
+      "Socket": 0,
+      "MemorySize": 24,
+      "Size": 3,
+      "Latency": 65
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://www.bestmarkt.hu/img/o/500079-8cf44.png",
+      "PurchasePrice": 3230,
+      "SellingPrice": 37395,
+      "Archived": false,
+      "Socket": 0,
+      "MemorySize": 25,
+      "Size": 5,
+      "Latency": 48
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://p1.akcdn.net/full/517022034.kingston-hyperx-predator-rgb-16gb-2x8gb-ddr4-3200mhz-hx432c16pb3ak2-16.jpg",
+      "PurchasePrice": 3243,
+      "SellingPrice": 33821,
+      "Archived": false,
+      "Socket": 0,
+      "MemorySize": 6,
+      "Size": 3,
+      "Latency": 6
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://konzolvilag.azureedge.net/product_instances2/243689/pc-kingston-ddr4-3200-16gb-hyperx-predator-cl16-kit-2x8gb-hx432c16pb3k2-16_thumb320.jpg?lmod=1581410779",
+      "PurchasePrice": 3805,
+      "SellingPrice": 20615,
+      "Archived": false,
+      "Socket": 0,
+      "MemorySize": 21,
+      "Size": 4,
+      "Latency": 72
+    },
+    {
+      "Manufacturer": "HyperX",
+      "Type": "Memory",
+      "ImgURL": "https://p1.akcdn.net/full/517022034.kingston-hyperx-predator-rgb-16gb-2x8gb-ddr4-3200mhz-hx432c16pb3ak2-16.jpg",
+      "PurchasePrice": 3563,
+      "SellingPrice": 26506,
+      "Archived": false,
+      "Socket": 0,
+      "MemorySize": 24,
+      "Size": 3,
+      "Latency": 89
+    }
+  ]
