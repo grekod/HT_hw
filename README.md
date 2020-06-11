@@ -1,2 +1,1 @@
-# HT - Fulstach HW
- HomeWork for HT
+Backend part of the HW for HT
