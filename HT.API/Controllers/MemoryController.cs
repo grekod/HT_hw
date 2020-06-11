@@ -30,7 +30,7 @@ namespace HT.API.Controllers
             }
             catch
             {
-                return BadRequest();
+                return StatusCode(500);
             }
         }
 
@@ -45,7 +45,7 @@ namespace HT.API.Controllers
             }
             catch
             {
-                return BadRequest();
+                return StatusCode(500);
             }
         }
 
@@ -59,7 +59,7 @@ namespace HT.API.Controllers
             }
             catch
             {
-                return BadRequest();
+                return StatusCode(500);
             }
         }
 
@@ -73,7 +73,7 @@ namespace HT.API.Controllers
             }
             catch
             {
-                return BadRequest();
+                return StatusCode(500);
             }
         }
 
@@ -87,7 +87,7 @@ namespace HT.API.Controllers
             }
             catch
             {
-                return BadRequest();
+                return StatusCode(500);
             }
         }
 
@@ -102,7 +102,7 @@ namespace HT.API.Controllers
             }
             catch
             {
-                return BadRequest();
+                return StatusCode(500);
             }
         }
 

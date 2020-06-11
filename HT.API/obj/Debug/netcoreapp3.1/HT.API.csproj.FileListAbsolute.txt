@@ -39,8 +39,6 @@ G:\Work\HyperTeam\HT.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0
 G:\Work\HyperTeam\HT.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 G:\Work\HyperTeam\HT.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.csprojAssemblyReference.cache
-G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.csproj.CoreCompileInputs.cache
-G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.MvcApplicationPartsAssemblyInfo.cache
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.AssemblyInfoInputs.cache
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.AssemblyInfo.cs
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.RazorTargetAssemblyInfo.cache
@@ -50,3 +48,7 @@ G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\staticwebassets\HT.API.StaticWe
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.dll
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.pdb
 G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.genruntimeconfig.cache
+G:\Work\HyperTeam\HT.API\bin\Debug\netcoreapp3.1\DAL\EF\MemoryDataSeed.json
+G:\Work\HyperTeam\HT.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.csproj.CoreCompileInputs.cache
+G:\Work\HyperTeam\HT.API\obj\Debug\netcoreapp3.1\HT.API.MvcApplicationPartsAssemblyInfo.cache
